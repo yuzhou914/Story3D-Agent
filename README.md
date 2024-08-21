@@ -22,7 +22,7 @@ If you are interested in our work, please star ⭐ our project.
 
 ### Story3D-Agent Framework
 <p align="center">
-  <img src="https://github.com/yuzhou914/Story3D-Agent/tree/main/assets/2-Story3D.jpg">
+  <img src="./assets/2-Story3D.jpg">
 </p>
 
 
