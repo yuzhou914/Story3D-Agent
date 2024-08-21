@@ -3,7 +3,7 @@
 <div align="center">
   
 ### Story3D-Agent: Exploring 3D Storytelling Visualization
-### <br> with Large Language Models
+### with Large Language Models
 [[Paper](https://yuzhou914.github.io/Story3D-Agent/)]
 [[Project Page](https://yuzhou914.github.io/Story3D-Agent/)]
 [Demo] <be>
