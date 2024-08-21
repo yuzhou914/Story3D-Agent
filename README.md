@@ -35,14 +35,14 @@ If you are interested in our work, please star ⭐ our project.
 ### More result of Story3D-Agent
 Below we illustrate the narrative titled *Friendship*, represented as a 3D-rendered representation.
 <p align="center">
-  <img src="https://yuzhou914.github.io/Story3D-Agent/assets/4-Friendship.png">
+  <img src="./assets/4-Friendship.png">
 </p>
 
 
 ### Story continuation of Story3D-Agent
 The continuation result for the narrative *Race Day* and *Friendship* is provided for illustration.
 <p align="center">
-  <img src="https://yuzhou914.github.io/Story3D-Agent/assets/5-Continuation.png">
+  <img src="./assets/5-Continuation.png">
 </p>
 
 
