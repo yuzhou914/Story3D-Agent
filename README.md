@@ -18,18 +18,21 @@ If you are interested in our work, please star ⭐ our project.
 <p align="center">
   <img src="./assets/1-teaser.jpg">
 </p>
+<br>
 
 
 ### Story3D-Agent Framework
 <p align="center">
   <img src="./assets/2-Story3D.jpg">
 </p>
+<br>
 
 
 ### Textual Self-check mechanism of Story3D-Agent
 <p align="center">
   <img src="./assets/3-TextualSelfCheck.jpg">
 </p>
+<br>
 
 
 ### More result of Story3D-Agent
@@ -37,6 +40,7 @@ Below we illustrate the narrative titled *Friendship*, represented as a 3D-rende
 <p align="center">
   <img src="./assets/4-Friendship.jpg">
 </p>
+<br>
 
 
 ### Story continuation of Story3D-Agent
@@ -44,6 +48,7 @@ The continuation result for the narrative *Race Day* and *Friendship* is provide
 <p align="center">
   <img src="./assets/5-Continuation.jpg">
 </p>
+<br>
 
 
 ### Contact
