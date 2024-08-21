@@ -22,6 +22,7 @@ If you are interested in our work, please star ⭐ our project.
 
 
 ### Story3D-Agent Framework
+Overviews of proposed (a) **Story3D-Agent** and (b) Visual Self-check workflow.
 <p align="center">
   <img src="./assets/2-Story3D.jpg">
 </p>
