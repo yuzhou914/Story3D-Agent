@@ -30,6 +30,7 @@ Overviews of proposed (a) **Story3D-Agent** and (b) Visual Self-check workflow.
 
 
 ### Textual Self-check mechanism of Story3D-Agent
+The textual self-check mechanism illustrated in one Event Window as example.
 <p align="center">
   <img src="./assets/3-TextualSelfCheck.jpg">
 </p>
