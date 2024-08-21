@@ -46,6 +46,10 @@ The continuation result for the narrative *Race Day* and *Friendship* is provide
 </p>
 
 
+### Contact
+For any question, feel free to email yuzhouhuang@link.cuhk.edu.cn.
+
+
 <!-- ### Citation	
 ```
 @article{huang2023smartedit,
