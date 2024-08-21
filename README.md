@@ -16,7 +16,7 @@ If you are interested in our work, please star ⭐ our project.
 ### Visualization of Story3D-Agent
 **Story3D-Agent** is an innovative LLM-agents system designed for 3D storytelling visualization. The primary objective of the LLM-agents system is to adeptly transform a provided narrative into a corresponding 3D visualization. Below we illustrate the narrative titled *Race Day*, represented as a 3D-rendered representation.
 <p align="center">
-  <img src="https://github.com/yuzhou914/Story3D-Agent/tree/main/assets/1-teaser.jpg">
+  <img src="./assets/1-teaser.jpg">
 </p>
 
 
