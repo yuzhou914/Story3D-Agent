@@ -28,7 +28,7 @@ If you are interested in our work, please star ⭐ our project.
 
 ### Textual Self-check mechanism of Story3D-Agent
 <p align="center">
-  <img src="./3-TextualSelfCheck.jpg">
+  <img src="./assets/3-TextualSelfCheck.jpg">
 </p>
 
 
