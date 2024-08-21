@@ -2,7 +2,8 @@
 <p align="center"> <img src="https://yuzhou914.github.io/Story3D-Agent/assets/Logo1.png" height=100> </p>
 <div align="center">
   
-## Story3D-Agent: Exploring 3D Storytelling Visualization\\ with Large Language Models
+### Story3D-Agent: Exploring 3D Storytelling Visualization
+### <br> with Large Language Models
 [[Paper](https://yuzhou914.github.io/Story3D-Agent/)]
 [[Project Page](https://yuzhou914.github.io/Story3D-Agent/)]
 [Demo] <be>
